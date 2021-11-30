@@ -5,5 +5,5 @@ if(suscripcion == "si"){
     alert("Gracias por suscribite a nuestra newsletter:).")
 }
 else{
-    alert("En otra ocacion sera:')");
+    alert("En otra ocacion sera");
 }

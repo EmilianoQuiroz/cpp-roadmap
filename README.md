@@ -7,6 +7,9 @@ soluciones y ofrece cursos de programación.
 Las tecnologias usadas son HTML, Css y Javascript ya  que era lo que la consigna estipulaba.
 
 El código sera modificado para que pueda cumplir la nueva consigna del final del curso.
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------+
 Consigna:                                                                                                                          |
                                                                                                                                    |
@@ -25,6 +28,11 @@ Aplicación de modelo de objeto documento (DOM)                                 
 Uso de vectores y condicionales                                                                                                    |
 Uso de datos ingresados por el usuario                                                                                             |
 -----------------------------------------------------------------------------------------------------------------------------------+
+
+
 Posterior a esto el sitio deberia tener un nuevo menú responsive con Jquery, 
 un formulario más simplificado pero validado con Javascript, un modo nocturno
 y una renovación del contenido de la página.
+
+Al dia de la fecha los cambios efectuados son, un formulario mas responsive mediante Javascript, un menu nuevo pero manteniendo el diseño responsive
+con Jquery y un nuevo pie de página mas estilizado y mas completo. 
